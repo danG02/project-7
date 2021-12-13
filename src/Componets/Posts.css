@@ -1,0 +1,23 @@
+.articles1 {
+    text-align: center;
+}
+.box2 {
+    border: 2px solid black;
+    width: 45rem;
+    height: 15rem;
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(to right, red, orange);
+}
+
+.posts a {
+    text-decoration: none;
+}
+
+h3 {
+    color: black;
+}
+
+.posts:nth-child(2n) {
+    background-color: white;
+}

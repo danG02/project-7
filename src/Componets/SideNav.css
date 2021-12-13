@@ -1,0 +1,18 @@
+.container {
+    border: 2px solid black;
+    width: 18rem;
+    position: absolute;
+    padding: 1.5rem;
+    background-size: 100% 100%;
+    display: block;
+    background-image: linear-gradient(red, yellow);
+}
+.bar input{
+    display: inline-block;
+    color: orange;
+    padding: 0.5rem;
+    font-size: 15px;
+}
+.bar {
+    padding-bottom: 0.5rem;
+}
